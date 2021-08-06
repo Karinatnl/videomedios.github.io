@@ -1,0 +1,31 @@
+p {
+  color: black;
+font-family: 'STIX Two Text', serif;
+text-align: center;
+font-size: 45px;
+}
+html {
+  background-color: #3261B4 ;
+}
+.Info {
+  background-color: white;
+  width: 190px;
+  height: 480px;
+  padding: 0 20px 20px 20px;
+  border: 2px solid black;
+  top: auto;
+  position: absolute;
+  align-content: center;
+  top: 200px;
+  left: 100px
+  }
+h4 {
+  font-size: 12px;
+  font-family: 'STIX Two Text', serif;
+  }
+.video {
+
+position: absolute;
+left: 450px;
+top: 200px;
+}
